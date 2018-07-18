@@ -8,6 +8,7 @@
 [Local Dev Server](http://mypythondev-mikedaug586160.codeanyapp.com:9292/)  
 [Prod Server](http://learnjs.mikedaug-prod.com.s3-website-us-east-1.amazonaws.com/)  
 [Dev Server](http://learnjs.mikedaug-dev.com.s3-website-us-east-1.amazonaws.com/)  
+[README.md](https://github.com/MikeDaug/learnjs/blob/master/README.md)  
 ---
 Deploy to Dev : `./sspa deploy_bucket learnjs.mikedaug-dev.com`  
 Deploy to Prod: `./sspa deploy_bucket learnjs.mikedaug-prod.com`  
