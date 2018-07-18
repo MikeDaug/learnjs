@@ -1,5 +1,28 @@
+# SSP_Apps  
+
+## Serverless Single Page Apps Tutorial  
+
+[tutorial web page](https://pragprog.com/book/brapps/serverless-page-apps)  
+[github markdown help](https://github.github.com/gfm/)  
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[Local Dev Server](http://mypythondev-mikedaug586160.codeanyapp.com:9292/)  
+[Prod Server](http://learnjs.mikedaug-prod.com.s3-website-us-east-1.amazonaws.com/)  
+[Dev Server](http://learnjs.mikedaug-dev.com.s3-website-us-east-1.amazonaws.com/)  
+---
+Deploy to Dev : `./sspa deploy_bucket learnjs.mikedaug-dev.com`  
+Deploy to Prod: `./sspa deploy_bucket learnjs.mikedaug-prod.com`  
+---
 
 ## Change Log
+  Bookmark: `pg. 14/33`  
+
+  Read these later:  
+  
+  * http://getskeleton.com/
+  * http://getskeleton.com/examples/landing/
+  * LivePage plugin for Google Chrome
+  
+---
 
 ### Beta 3 Changes
 
@@ -26,3 +49,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Creative Commons Attributions
 
   * HeroImage.jpg is licensed from popularwoodworking.com under the Creative Commons Attribution License (CC BY 3.0 US).
+
