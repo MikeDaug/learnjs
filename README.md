@@ -5,7 +5,7 @@
 [tutorial web page](https://pragprog.com/book/brapps/serverless-page-apps)  
 [github markdown help](https://github.github.com/gfm/)  
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-[Local Dev Server](http://mypythondev-mikedaug586160.codeanyapp.com:9292/)  
+[Local Dev Server](http://single-page-apps-mikedaug586160.codeanyapp.com:9292/)  
 [Prod Server](http://learnjs.mikedaug-prod.com.s3-website-us-east-1.amazonaws.com/)  
 [Dev Server](http://learnjs.mikedaug-dev.com.s3-website-us-east-1.amazonaws.com/)  
 [README.md](https://github.com/MikeDaug/learnjs/blob/master/README.md)  
