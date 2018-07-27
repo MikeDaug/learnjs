@@ -15,7 +15,7 @@ Deploy to Prod: `./sspa deploy_bucket learnjs.mikedaug-prod.com`
 ---
 
 ## Change Log
-  Bookmark: `pg. 38/57/25`  
+  Bookmark: `pg. 40/59/2500` 
 
   Read these later:  
   
