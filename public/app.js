@@ -10,6 +10,10 @@ learnjs.problems = [
   {
     description: "Simple Math",
     code: "function problem() { return 42 === 6 * __; }"
+  },
+  {
+    description: "What is NOT truth?",
+    code: "function problem() { return __; }"
   }
 ];
 
